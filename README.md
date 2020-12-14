@@ -10,6 +10,14 @@ This repository is a collection of flutter applications that I created during th
 - [Course][course-url]
 - [Instructor][instructor-url]
 
+## 1) I am Rich
+
+<a href="https://nitaicharan.github.io/Udemy-TC2020FDBWD4">
+  <p align="center">
+    <img src="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/blob/master/i_am_rich/images/screenshot.png" width="350">
+  </p>
+</a>
+
 
 
 <!-- PROJECT SHIELDS -->
