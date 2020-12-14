@@ -1,9 +1,15 @@
 # I am Rich
 <!-- PROJECT SHIELDS -->
-![Udemy][udemy-shield]
 ![Flutter][flutter-shield]
 ![Android][android-shield]
 ![Apple][apple-shield]
+
+## About course
+This project was part of the Udemy course "The Complete 2020 Flutter Development Bootcamp with Dart" by Angela Yu.
+
+- [Course][course-url]
+- [Instructor][instructor-url]
+
 
 <a href="https://nitaicharan.github.io/Udemy-TC2020FDBWD4">
   <p align="center">
@@ -25,3 +31,7 @@
 [flutter-shield]: https://img.shields.io/badge/-Flutter-white.svg?logo=flutter&logoColor=white&colorB=02569B
 [android-shield]: https://img.shields.io/badge/-Android-white.svg?logo=android&logoColor=white&colorB=3DDC84
 [apple-shield]: https://img.shields.io/badge/-Apple-white.svg?logo=apple&logoColor=white&colorB=999999
+
+<!-- ALIES README -->
+[course-url]: https://udemy.com/course/flutter-bootcamp-with-dart/
+[instructor-url]: https://udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/
