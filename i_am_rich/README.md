@@ -1,16 +1,12 @@
-# i_am_rich
+# I am Rich
+<!-- PROJECT SHIELDS -->
+![Udemy][udemy-shield]
+![Flutter][flutter-shield]
+![Android][android-shield]
+![Apple][apple-shield]
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://nitaicharan.github.io/Udemy-TC2020FDBWD4">
+  <p align="center">
+    <img src="images/screenshot" width="350">
+  </p>
+</a>
