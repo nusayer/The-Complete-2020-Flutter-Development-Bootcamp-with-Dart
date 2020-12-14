@@ -11,7 +11,7 @@
   </p>
 </a>
 
-!-- PROJECT SHIELDS -->
+<!-- PROJECT SHIELDS -->
 [html5-shield]: https://img.shields.io/badge/-HTML5-black.svg?logo=html5&colorB=E34F26&logoColor=white
 [css3-shield]: https://img.shields.io/badge/-CSS3-black.svg?logo=css3&colorB=1572B6&logoColor=white
 [sass-shield]: https://img.shields.io/badge/-SASS-black.svg?logo=sass&colorB=CC6699&logoColor=white
