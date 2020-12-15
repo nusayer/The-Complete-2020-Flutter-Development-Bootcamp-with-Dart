@@ -11,7 +11,7 @@ This project was part of the Udemy course "The Complete 2020 Flutter Development
 - [Instructor][instructor-url]
 
 
-<a href="https://nitaicharan.github.io/Udemy-TC2020FDBWD4">
+<a href="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/tree/master/i_am_rich">
   <p align="center">
     <img src="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/blob/master/i_am_rich/images/screenshot.png" width="350">
   </p>

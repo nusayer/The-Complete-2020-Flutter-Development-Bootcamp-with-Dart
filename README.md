@@ -12,7 +12,7 @@ This repository is a collection of flutter applications that I created during th
 
 ## 1) I am Rich
 
-<a href="https://nitaicharan.github.io/Udemy-TC2020FDBWD4">
+<a href="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/tree/master/i_am_rich">
   <p align="center">
     <img src="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/blob/master/i_am_rich/images/screenshot.png" width="350">
   </p>
@@ -20,11 +20,20 @@ This repository is a collection of flutter applications that I created during th
 
 ## 2) I am Poor
 
-<a href="https://nitaicharan.github.io/Udemy-TC2020FDBWD4">
+<a href="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/tree/master/i_am_poor">
   <p align="center">
     <img src="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/blob/master/i_am_poor/images/screenshot.png" width="350">
   </p>
 </a>
+
+## 3) Mi Card
+
+<a href="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/tree/master/mi_card_flutter">
+  <p align="center">
+    <img src="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/blob/master/mi_card_flutter/images/screenshot.png" width="350">
+  </p>
+</a>
+
 
 
 
