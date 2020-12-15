@@ -18,7 +18,7 @@ This repository is a collection of flutter applications that I created during th
   </p>
 </a>
 
-## 1) I am Poor
+## 2) I am Poor
 
 <a href="https://nitaicharan.github.io/Udemy-TC2020FDBWD4">
   <p align="center">
