@@ -4,7 +4,7 @@
 ![Android][android-shield]
 ![Apple][apple-shield]
 
-A Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!.
+A Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
 
 ## About course
 This project was part of the Udemy course "The Complete 2020 Flutter Development Bootcamp with Dart" by Angela Yu.
@@ -15,7 +15,7 @@ This project was part of the Udemy course "The Complete 2020 Flutter Development
 
 <a href="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/tree/master/dicee_flutter">
   <p align="center">
-    <img src="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/blob/master/dicee_flutter/images/screenshot2.gif" width="350">
+    <img src="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/blob/master/dicee_flutter/images/screenshot.gif" width="350">
   </p>
 </a>
 
