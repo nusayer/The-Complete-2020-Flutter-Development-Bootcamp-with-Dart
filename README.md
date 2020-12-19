@@ -54,7 +54,7 @@ This repository is a collection of flutter applications that I created during th
 
 <a href="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/tree/master/dicee_flutter">
   <p align="center">
-    <img src="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/blob/master/xylophone/images/screenshot.gif" width="350">
+    <img src="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/blob/master/xylophone/images/screenshot.png" width="350">
   </p>
 </a>
 
