@@ -1,55 +1,23 @@
-# The Complete 2020 Flutter Development Bootcamp with Dart
+# Magic 8 Ball 🎱
 <!-- PROJECT SHIELDS -->
 ![Flutter][flutter-shield]
 ![Android][android-shield]
 ![Apple][apple-shield]
 
+A magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button.
+
 ## About course
-This repository is a collection of flutter applications that I created during the course "The Complete 2020 Flutter Development Bootcamp with Dart" by Dr. Angela Yu
+This project was part of the Udemy course "The Complete 2020 Flutter Development Bootcamp with Dart" by Angela Yu.
 
 - [Course][course-url]
 - [Instructor][instructor-url]
 
-## 1) I am Rich
-
-<a href="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/tree/master/i_am_rich">
-  <p align="center">
-    <img src="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/blob/master/i_am_rich/images/screenshot.png" width="350">
-  </p>
-</a>
-
-## 2) I am Poor
-
-<a href="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/tree/master/i_am_poor">
-  <p align="center">
-    <img src="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/blob/master/i_am_poor/images/screenshot.png" width="350">
-  </p>
-</a>
-
-## 3) Mi Card
-
-<a href="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/tree/master/mi_card">
-  <p align="center">
-    <img src="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/blob/master/mi_card/images/screenshot.png" width="350">
-  </p>
-</a>
-
-## 4) Dicee 🎲
-
-<a href="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/tree/master/dicee_flutter">
-  <p align="center">
-    <img src="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/blob/master/dicee_flutter/images/screenshot.gif" width="350">
-  </p>
-</a>
-
-## 5) Magic 8 Ball 🎱
 
 <a href="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/tree/master/magic_8_ball">
   <p align="center">
     <img src="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/blob/master/magic_8_ball/images/screenshot.gif" width="350">
   </p>
 </a>
-
 
 <!-- PROJECT SHIELDS -->
 [html5-shield]: https://img.shields.io/badge/-HTML5-black.svg?logo=html5&colorB=E34F26&logoColor=white
