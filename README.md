@@ -52,7 +52,7 @@ This repository is a collection of flutter applications that I created during th
 
 ## 6) Xylophone 🎹
 
-<a href="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/tree/master/dicee_flutter">
+<a href="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/tree/master/xylophone">
   <p align="center">
     <img src="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/blob/master/xylophone/images/screenshot.png" width="350">
   </p>

@@ -13,7 +13,7 @@ This project was part of the Udemy course "The Complete 2020 Flutter Development
 - [Instructor][instructor-url]
 
 
-<a href="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/tree/master/dicee_flutter">
+<a href="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/tree/master/xylophone">
   <p align="center">
     <img src="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/blob/master/xylophone/images/screenshot.png" width="350">
   </p>
