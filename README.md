@@ -66,6 +66,14 @@ This repository is a collection of flutter applications that I created during th
   </p>
 </a>
 
+## 8) Destini 🤔
+
+<a href="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/tree/master/destini">
+  <p align="center">
+    <img src="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/blob/master/destini/images/screenshot.png" width="350">
+  </p>
+</a>
+
 
 <!-- PROJECT SHIELDS -->
 [html5-shield]: https://img.shields.io/badge/-HTML5-black.svg?logo=html5&colorB=E34F26&logoColor=white
