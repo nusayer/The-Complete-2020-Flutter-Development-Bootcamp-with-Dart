@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912254954849",
+    "project_id": "flash-chat-ffa41",
+    "storage_bucket": "flash-chat-ffa41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912254954849:android:48f5a1d37c0906b9eda920",
+        "android_client_info": {
+          "package_name": "com.nusayer.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912254954849-1vuj9p106h99lrq40a2h1mkvfeto4al3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpqyBQs58duJC2T7op7jBH3sQ-AZwvuh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912254954849-1vuj9p106h99lrq40a2h1mkvfeto4al3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
