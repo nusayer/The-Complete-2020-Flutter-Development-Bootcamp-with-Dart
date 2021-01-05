@@ -86,7 +86,7 @@ This repository is a collection of flutter applications that I created during th
 
 <a href="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/tree/master/todoey">
   <p align="center">
-    <img src="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/blob/master/todoey/images/screenshot.gif">
+    <img src="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/blob/master/todoey/images/screenshot.gif" width="350" height=80%>
   </p>
 </a>
 
