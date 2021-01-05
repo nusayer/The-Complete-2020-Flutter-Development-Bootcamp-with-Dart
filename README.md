@@ -78,7 +78,7 @@ This repository is a collection of flutter applications that I created during th
 
 <a href="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/tree/master/bmi_calculator">
   <p align="center">
-    <img src="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/blob/master/bmi_calculator/images/screenshot2.mp4" width="350">
+    <img src="https://github.com/nusayer/The-Complete-2020-Flutter-Development-Bootcamp-with-Dart/blob/master/bmi_calculator/images/screenshot2.gif" width="350">
   </p>
 </a>
 
